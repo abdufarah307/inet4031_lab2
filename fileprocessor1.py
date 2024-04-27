@@ -1,3 +1,4 @@
+import sys 
 # Open the file
 with open("fileprocessor.input", "r") as file:
     # Read each line into a list
